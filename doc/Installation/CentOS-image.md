@@ -16,7 +16,7 @@ Any issues with these images should be reported via [Github](https://github.com/
   - Etc/UTC Timezone
   - 4 Poller Wrapper threads
 
-#### Software
+#### ソフトウェア
 
   - PHP 7
   - MariaDB
@@ -31,7 +31,7 @@ Any issues with these images should be reported via [Github](https://github.com/
   - Service checks enabled
   - Syslog enabled
 
-#### Download
+#### ダウンロード
 
 [OVA Image](http://www.lathwood.co.uk/librenms/librenms_centos_7.ova) - 1.1G
 
@@ -45,15 +45,15 @@ Any issues with these images should be reported via [Github](https://github.com/
 
   - sha256sum: 944d1164f0664334fdb50e425049819a18da5568c56b6b49681a9ebe13ae9489
 
-#### Credentials
+#### 認証情報
 
-> Please note the second character of the SSH password is a CAPITAL EYE
+> SSHパスワードの2文字目は「大文字のI(アイ)」であることに注意して下さい。
 
   - SSH
     - username: librenms
     - password: `CIne3fwdfds`
 
-> Please note the second character of the SSH password is a CAPITAL EYE
+> SSHパスワードの2文字目は「大文字のI(アイ)」であることに注意して下さい。
 
   - MySQL/MariaDB
     - username: root
